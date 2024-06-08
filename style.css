@@ -1,0 +1,45 @@
+.item
+{
+    width: 500px;
+    height: 400px;
+    background-color: #24353F;
+
+}
+body
+{
+    background-color: #24353F;
+}
+.item h1
+{
+    color: #17A2B8;
+}
+.item p
+{
+    color: white;
+
+}
+body {
+    background-color: #24353F;
+}
+
+.item {
+    width: 500px;
+    height: 400px;
+    background-color: #24353F;
+}
+
+.item h1 {
+    color: #17A2B8;
+}
+
+.item p {
+    color: white;
+}
+
+.d-none {
+    display: none;
+}
+nav
+{
+    background-color: #24353F;
+}
